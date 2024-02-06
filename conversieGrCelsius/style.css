@@ -1,0 +1,14 @@
+label{
+    font-size: 1.2em;
+    color: antiquewhite;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+input{
+    margin: 2px;
+    color: antiquewhite;
+    padding: 10px;
+    background: rgb(28, 28, 28);
+    border-radius: 20px;
+}
+body{background-color: rgb(35, 35, 35);}
